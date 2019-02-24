@@ -11,7 +11,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# About me
+
+I started my academic carrer by following my passion for trees and nature and enrolling in a Forestry program during my undergrad. After my undergrad in [Forestry](http://forestry.kau.in/) from Kerala Agriculture University I moved to the US, where I pursued my MS under the guidance of [Dr. Matt Olson](https://mattolson38.wixsite.com/olsonlab). It was during my MS that I got interested in evolutionary dynamics and understanding how species adapt and respond to changing climatic conditions. Currently I am a PhD candidate in [Dr. Andrew Eckert's lab](https://www.eckertlab.com/) at VCU, where I am investigating the role of introgression in facilitating adaptive evolution in Pines. Please see my [Resarch interests] for more information about the work I did during my MS and PhD and future interests.
+
+![My study system Pinus strobiformis in Durango, MX]("ImagesGit/IMG_20160806_073356503 (1).jpg" alt="hi" class="inline")
+
+
 ## Header 2
 ### Header 3
 
